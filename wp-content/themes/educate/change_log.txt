@@ -1,0 +1,8 @@
+Version 1.0
+i)   Theme Submitted for approval
+
+Version 1.0.1
+	1) I have fixed the Customize Site Tagline Text Field and Display Header Text on the Customize Site
+	2) I have fixed the issue of footer logo & social icon hide in check box condiction in the theme options
+	3) i have removed the extra ?> tag from the front page
+	4) i have set the licence and version of owl carousel in readme.txt 
